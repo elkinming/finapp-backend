@@ -1,0 +1,13 @@
+node_modules/
+.vscode/
+config/
+src/playground.js
+src/logger/a*
+src/logger/logs
+docker-compose.yml
+docker-compose-dev.yml
+docker-compose-pepsico.yml
+.env
+.env-dev
+.env-pepsico
+logs
