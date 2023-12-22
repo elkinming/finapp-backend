@@ -1,0 +1,11 @@
+node_modules
+.vscode
+config
+src/playground.js
+src/logger/a*
+src/logger/logs
+docker-compose.yml
+.env
+Dockerfile
+.gitignore
+logs
